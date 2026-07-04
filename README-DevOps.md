@@ -12,7 +12,7 @@ Summary Diagram
 
 ## Looks like this
 
-![Go Website](static/images/summary-devops)
+![Go Website](    static/images/summary-devops.png)
 
 
 Creating Dockerfile (Multi-stage build)
