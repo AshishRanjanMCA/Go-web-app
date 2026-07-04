@@ -11,7 +11,7 @@ DevOps practices include the following:
 Summary Diagram
 
 <p align="center">
-  <img src="images/summary-devops" alt="DevOps Workflow" width="1200">
+  <img src="static/images/summary-devops" alt="DevOps Workflow" width="1200">
 </p>
 
 
