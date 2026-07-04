@@ -10,9 +10,9 @@ DevOps practices include the following:
 
 Summary Diagram
 
-<p align="center">
-  <img src="static/images/summary-devops" alt="DevOps Workflow" width="1200">
-</p>
+## Looks like this
+
+![Go Website](static/images/summary-devops)
 
 
 Creating Dockerfile (Multi-stage build)
