@@ -39,6 +39,17 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
 
+    - name: Set up Go
+      uses: actions/setup-go@v6
+      with:
+        go-version-file: go.mod
+
+    - name: Verify Go version
+      run: go version
+
+    - name: Download dependencies
+      run: go mod download
+
     - name: Run golangci-lint
       uses: golangci/golangci-lint-action@v6
       with:
